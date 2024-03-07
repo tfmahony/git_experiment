@@ -9,3 +9,5 @@ That would be used
 This is an addition made in taylor_branch that I will need to push to the master.
 
 This is an addition made remotely.
+
+This is another local addition.
