@@ -12,4 +12,4 @@ This is an addition made remotely.
 
 This is another local addition.
 
-This is a change made within eclipse--yay! Here's another sentence made locally on my personal machine.
+This is a change made within eclipse--yay! Here's another sentence made locally on my VM.
